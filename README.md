@@ -1,3 +1,3 @@
 ## Hellow 👋
 
-![Alt text for image](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
+![Alt text for image](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
