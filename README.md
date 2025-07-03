@@ -1,6 +1,6 @@
 ## Hellow, It's Matheesha Senevirathne 👋
 
-> Software Engineering undergrad at NIBM (National Institute of Business Management)
+> Aspiring Software Engineer, currently an undergraduate at the National Institute of Business Management (NIBM)
 
 ---
 
