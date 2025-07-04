@@ -12,4 +12,4 @@
 ### Reach Out
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/matheesha-ls)
 [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/telegram.svg)](https://t.me/ItsMatheesha)
-[![WhatsApp](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/whatsapp.svg)](https://wa.me/+94717735779)
+[![WhatsApp](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/discord.svg)](https://discord.com/users/itsmatheesha)
