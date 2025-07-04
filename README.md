@@ -10,4 +10,5 @@
 ---
 
 ### Reach Out
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](www.linkedin.com/in/matheesha-ls)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/matheesha-ls)
+[![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/telegram.svg)](https://t.me/ItsMatheesha)
