@@ -2,8 +2,6 @@
 
 > Aspiring Software Engineer, currently an undergraduate at the National Institute of Business Management (NIBM)
 
-![](https://komarev.com/ghpvc/?username=ItsMatheesha)
-
 ---
 
 ### My Skills
