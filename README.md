@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, It's Matheesha Senevirathne 👋
 
-<!--
-**ItsMatheesha/ItsMatheesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Aspiring Software Engineer, currently an undergraduate at the National Institute of Business Management (NIBM)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I've used
+[![My Skills](https://skillicons.dev/icons?i=github,html,css,js,java,cs,c,dotnet,figma,nodejs,express,php,react,tailwind,ts,firebase,supabase,postgres,mysql,vercel,vscode)](https://skillicons.dev)
+
+---
+
+### Connect with me
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://linkedin.com/in/matheesha-ls)
+[![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/telegram.svg)](https://t.me/ItsMatheesha)
+[![WhatsApp](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/discord.svg)](https://discord.com/users/itsmatheesha)
