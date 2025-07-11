@@ -14,36 +14,48 @@
     <td>
       
 #### Languages
+<a href="https://skillicons.dev">
 <img src='https://skillicons.dev/icons?i=html,css,js,java,cs,c,php,ts' height=40px height=40px>
+</a>
     </td>
     <td>
       
 #### Runtime
-<img src='https://skillicons.dev/icons?i=nodejs,deno' height=40px height=40px>
+<a href="https://skillicons.dev">
+  <img src='https://skillicons.dev/icons?i=nodejs,deno' height=40px height=40px>
+</a>
     </td>
   </tr>
   <tr>
     <td>
       
 #### Frameworks
-<img src='https://skillicons.dev/icons?i=dotnet,express,react,tailwind' height=40px height=40px>
+<a href="https://skillicons.dev">
+  <img src='https://skillicons.dev/icons?i=dotnet,express,react,tailwind' height=40px height=40px>
+</a>
     </td>
     <td>
       
 #### Deployement
-<img src='https://skillicons.dev/icons?i=netlify,vercel' height=40px height=40px>
+<a href="https://skillicons.dev">
+  <img src='https://skillicons.dev/icons?i=netlify,vercel' height=40px height=40px>
+</a>
     </td>
   </tr>
   <tr>
     <td>
       
 #### Databases
-<img src='https://skillicons.dev/icons?i=html,firebase,supabase,postgres,mysql' height=40px height=40px>
+<a href="https://skillicons.dev">
+  <img src='https://skillicons.dev/icons?i=html,firebase,supabase,postgres,mysql' height=40px height=40px>
+</a>
     </td>
     <td>
       
 #### Tools
-<img src='https://skillicons.dev/icons?i=npm,vite,github,figma' height=40px height=40px>
+<a href="https://skillicons.dev">
+  <img src='https://skillicons.dev/icons?i=npm,vite,git,github,figma' height=40px height=40px>
+</a>
     </td>
   </tr>
 </table>
