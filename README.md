@@ -7,6 +7,16 @@
 ### Skills
 #### Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,js,java,cs,c,php,ts)](https://skillicons.dev)
+#### Runtime
+[![Runtime](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+#### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,express,react,tailwind)](https://skillicons.dev)
+#### Deployement
+[![Deployement](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
+#### Databases
+[![Databases](https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql)](https://skillicons.dev)
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=npm,vite,github,figma)](https://skillicons.dev)
 
 ---
 
