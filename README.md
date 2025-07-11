@@ -4,12 +4,11 @@
 
 ---
 
+<img src='https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292.gif' height=100px width=100px>
+
 ### Tech Stack:
 
-<table style="table, th, td {
-  border: 1px solid black;
-  border-radius: 10px;
-}">
+<table>
   <tr>
     <td>
       
