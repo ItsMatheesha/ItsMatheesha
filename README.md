@@ -8,7 +8,7 @@
 #### Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,js,java,cs,c,php,ts)](https://skillicons.dev)
 #### Runtime
-[![Runtime](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Runtime](https://skillicons.dev/icons?i=nodejs,deno)](https://skillicons.dev)
 #### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,express,react,tailwind)](https://skillicons.dev)
 #### Deployement
