@@ -4,8 +4,9 @@
 
 ---
 
-### Technologies I've used
-[![My Skills](https://skillicons.dev/icons?i=github,html,css,js,java,cs,c,dotnet,figma,nodejs,express,php,react,tailwind,ts,firebase,supabase,postgres,mysql,vercel,vscode)](https://skillicons.dev)
+### Skills
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,java,cs,c,php,ts)](https://skillicons.dev)
 
 ---
 
