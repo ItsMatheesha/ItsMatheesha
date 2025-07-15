@@ -46,7 +46,7 @@
       
 #### Databases
 <a href="https://skillicons.dev">
-  <img src='https://skillicons.dev/icons?i=html,firebase,supabase,postgres,mysql' height=40px height=40px>
+  <img src='https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql' height=40px height=40px>
 </a>
     </td>
     <td>
