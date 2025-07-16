@@ -21,32 +21,32 @@
 ### Tech Stack:
       
 #### Languages
-<a href="https://skillicons.dev">
+<a href="https://github.com/syvixor/skills-icons">
 <img src='https://skills.syvixor.com/api/icons?i=html,css,js,java,cs,c,php,ts' height=40px height=40px>
 </a>
 
 #### Frameworks
-<a href="https://skillicons.dev">
+<a href="https://github.com/syvixor/skills-icons">
   <img src='https://skills.syvixor.com/api/icons?i=dotnet,express,react,tailwind' height=40px height=40px>
 </a>
 
 #### Tools
-<a href="https://skillicons.dev">
+<a href="https://github.com/syvixor/skills-icons">
   <img src='https://skills.syvixor.com/api/icons?i=docker,npm,vite,git,github,figma' height=40px height=40px>
 </a>
 
 #### Runtime
-<a href="https://skillicons.dev">
+<a href="https://github.com/syvixor/skills-icons">
   <img src='https://skills.syvixor.com/api/icons?i=nodejs,deno' height=40px height=40px>
 </a>
 
 #### Deployement
-<a href="https://skillicons.dev">
+<a href="https://github.com/syvixor/skills-icons">
   <img src='https://skills.syvixor.com/api/icons?i=netlify,vercel' height=40px height=40px>
 </a>
 
 #### Databases
-<a href="https://skillicons.dev">
+<a href="https://github.com/syvixor/skills-icons">
   <img src='https://skills.syvixor.com/api/icons?i=firebase,supabase,mysql' height=40px height=40px>
 </a>
 
