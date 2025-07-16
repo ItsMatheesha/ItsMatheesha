@@ -1,8 +1,20 @@
 ## Hello, It's Matheesha Senevirathne 👋
 
 > Aspiring Software Engineer, currently an undergraduate at the National Institute of Business Management (NIBM)
-
 ---
+
+```Json
+{
+  "life": "still in beta",
+  "code_mode": true,
+  "stack": ["ctrl+z", "googling", "stack overflow surfing"],
+  "current_project": "something half-finished",
+  "favorite_quote": "It works on my machine",
+  "productivity": "peaks at 2am"
+  "sleep": false,
+  "logs": ["why is this working?", "no idea", "don’t touch it"],
+}
+```
 
 <img src='https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292.gif' height=100px width=100px>
 
