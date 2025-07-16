@@ -8,9 +8,9 @@
 
 ### Tech Stack:
 
-<table>
+<!-- <table>
   <tr>
-    <td>
+    <td> -->
       
 #### Languages
 <a href="https://skillicons.dev">
