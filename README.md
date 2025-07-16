@@ -22,7 +22,7 @@
       
 #### Languages
 <a href="https://github.com/syvixor/skills-icons">
-<img src='https://skills.syvixor.com/api/icons?i=html,css,js,java,cs,c,php,ts' height=40px height=40px>
+<img src='https://skills.syvixor.com/api/icons?i=html,css,js,java,cs,c,csharp,php,ts' height=40px height=40px>
 </a>
 
 #### Frameworks
