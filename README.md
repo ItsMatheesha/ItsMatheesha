@@ -26,50 +26,33 @@
       
 #### Languages
 <a href="https://skillicons.dev">
-<img src='https://skillicons.dev/icons?i=html,css,js,java,cs,c,php,ts' height=40px height=40px>
+<img src='https://skills.syvixor.com/api/icons?i=html,css,js,java,cs,c,php,ts' height=40px height=40px>
 </a>
-    </td>
-    <td>
-      
-#### Runtime
-<a href="https://skillicons.dev">
-  <img src='https://skillicons.dev/icons?i=nodejs,deno' height=40px height=40px>
-</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      
+
 #### Frameworks
 <a href="https://skillicons.dev">
-  <img src='https://skillicons.dev/icons?i=dotnet,express,react,tailwind' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=dotnet,express,react,tailwind' height=40px height=40px>
 </a>
-    </td>
-    <td>
-      
-#### Deployement
-<a href="https://skillicons.dev">
-  <img src='https://skillicons.dev/icons?i=netlify,vercel' height=40px height=40px>
-</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      
-#### Databases
-<a href="https://skillicons.dev">
-  <img src='https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql' height=40px height=40px>
-</a>
-    </td>
-    <td>
-      
+
 #### Tools
 <a href="https://skillicons.dev">
-  <img src='https://skillicons.dev/icons?i=npm,vite,git,github,figma' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=docker,npm,vite,git,github,figma' height=40px height=40px>
 </a>
-    </td>
-  </tr>
-</table>
+
+#### Runtime
+<a href="https://skillicons.dev">
+  <img src='https://skills.syvixor.com/api/icons?i=nodejs,deno' height=40px height=40px>
+</a>
+
+#### Deployement
+<a href="https://skillicons.dev">
+  <img src='https://skills.syvixor.com/api/icons?i=netlify,vercel' height=40px height=40px>
+</a>
+
+#### Databases
+<a href="https://skillicons.dev">
+  <img src='https://skills.syvixor.com/api/icons?i=firebase,supabase,mysql' height=40px height=40px>
+</a>
 
 ---
 
