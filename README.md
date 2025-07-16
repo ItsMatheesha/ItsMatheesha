@@ -10,9 +10,9 @@
   "stack": ["ctrl+z", "googling", "stack overflow surfing"],
   "current_project": "something half-finished",
   "favorite_quote": "It works on my machine",
-  "productivity": "peaks at 2am"
+  "productivity": "peaks at 2am",
   "sleep": false,
-  "logs": ["why is this working?", "no idea", "don’t touch it"],
+  "logs": ["why is this working?", "no idea", "don’t touch it"]
 }
 ```
 
