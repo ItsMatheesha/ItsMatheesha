@@ -1,6 +1,6 @@
 ## Hello, It's Matheesha Senevirathne 👋
 
-> Aspiring Software Engineer, SWE undergrad @ NIBM
+> Aspiring SWE undergrad @ NIBM
 ---
 
 ```Json
