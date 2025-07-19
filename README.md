@@ -1,6 +1,6 @@
 ## Hello, It's Matheesha Senevirathne 👋
 
-> Aspiring Software Engineer, currently an undergraduate at the National Institute of Business Management (NIBM)
+> Aspiring Software Engineer, SWE undergrad @ NIBM
 ---
 
 ```Json
