@@ -22,12 +22,17 @@
       
 #### Languages
 <a href="https://github.com/syvixor/skills-icons">
-<img src='https://skills.syvixor.com/api/icons?i=html,css,js,java,cs,c,csharp,php,ts' height=40px height=40px>
+<img src='https://skills.syvixor.com/api/icons?i=html,css,js,java,c,csharp,php,ts' height=40px height=40px>
 </a>
 
 #### Frameworks
 <a href="https://github.com/syvixor/skills-icons">
-  <img src='https://skills.syvixor.com/api/icons?i=dotnet,express,react,tailwind' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=dotnet,express,tailwind' height=40px height=40px>
+</a>
+
+#### Libraries
+<a href="https://github.com/syvixor/skills-icons">
+  <img src='https://skills.syvixor.com/api/icons?i=react' height=40px height=40px>
 </a>
 
 #### Tools
@@ -40,7 +45,7 @@
   <img src='https://skills.syvixor.com/api/icons?i=nodejs,deno' height=40px height=40px>
 </a>
 
-#### Deployement
+#### Deployment
 <a href="https://github.com/syvixor/skills-icons">
   <img src='https://skills.syvixor.com/api/icons?i=netlify,vercel' height=40px height=40px>
 </a>
