@@ -37,7 +37,7 @@
 
 #### Tools
 <a href="https://github.com/syvixor/skills-icons">
-  <img src='https://skills.syvixor.com/api/icons?i=docker,npm,vite,git,github,figma' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=docker,npm,jsr,vite,git,github,figma' height=40px height=40px>
 </a>
 
 #### Runtime
