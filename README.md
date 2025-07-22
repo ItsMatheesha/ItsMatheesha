@@ -1,6 +1,8 @@
 ## Hello, It's Matheesha Senevirathne 👋
 
 > Aspiring SWE undergrad @ NIBM
+
+![NPM Downloads by package author](https://img.shields.io/npm-stat/dw/itsmatheesha?style=flat-square&logo=npm&label=NPM%20Downloads&color=%23cb0000&link=https%3A%2F%2Fwww.npmjs.com%2F~itsmatheesha)
 ---
 
 ```Json
