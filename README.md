@@ -29,7 +29,7 @@
 
 #### Frameworks
 <a href="https://github.com/syvixor/skills-icons">
-  <img src='https://skills.syvixor.com/api/icons?i=dotnet,express,hono,tailwind' height=40px height=40px>
+  <img src='https://skills.syvixor.com/api/icons?i=nextjs,dotnet,express,hono,tailwind' height=40px height=40px>
 </a>
 
 #### Libraries
