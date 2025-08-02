@@ -2,11 +2,11 @@
 
 > Aspiring SWE undergrad @ NIBM
 
-[![NPM Downloads by package author](https://img.shields.io/npm-stat/dw/imatheesha?style=flat-square&logo=npm&label=NPM%20Downloads&color=%23cb0000)](https://www.npmjs.com/~itsmatheesha)
+[![Github](https://img.shields.io/badge/NPM-fff?style=flat-square&logo=npm&logoColor=cc0000)](https://www.npmjs.com/~matheesha)
 
 ### My Projects
-[![JWT](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwt&show_owner=true)](https://github.com/ItsMatheesha/jwt)
-[![JWT Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwt-sb&show_owner=true)](https://github.com/ItsMatheesha/jwt-sb)
+[![JWT](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwtkn&show_owner=)](https://github.com/ItsMatheesha/jwtkn)
+[![JWT Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwt-sb&show_owner=)](https://github.com/ItsMatheesha/jwt-sb)
 
 ---
 
