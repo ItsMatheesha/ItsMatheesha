@@ -5,8 +5,8 @@
 [![Github](https://img.shields.io/badge/NPM-fff?style=flat-square&logo=npm&logoColor=cc0000)](https://www.npmjs.com/~matheesha)
 
 ### My Projects
-[![JWT](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwtkn&show_owner=)](https://github.com/ItsMatheesha/jwtkn)
-[![JWT Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwt-sb&show_owner=)](https://github.com/ItsMatheesha/jwt-sb)
+[![JWT](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwtkn&show_owner=false)](https://github.com/ItsMatheesha/jwtkn)
+[![JWT Sandbox](https://github-readme-stats.vercel.app/api/pin/?username=ItsMatheesha&repo=jwt-sb&show_owner=false)](https://github.com/ItsMatheesha/jwt-sb)
 
 ---
 
