@@ -5,7 +5,8 @@
 [![Github](https://img.shields.io/badge/NPM-fff?style=flat-square&logo=npm&logoColor=cc0000)](https://www.npmjs.com/~matheesha)
 
 ### My Projects
-[![JWT](https://ghpin.deno.dev/gh/repo/ItsMatheesha/jwtkn)](https://github.com/ItsMatheesha/jwtkn)
+[![JWTKN](https://ghpin.deno.dev/gh/repo/ItsMatheesha/ghpin)](https://github.com/ItsMatheesha/ghpin)
+[![JWTKN](https://ghpin.deno.dev/gh/repo/ItsMatheesha/jwtkn)](https://github.com/ItsMatheesha/jwtkn)
 [![JWT Sandbox](https://ghpin.deno.dev/gh/repo/ItsMatheesha/jwt-sb)](https://github.com/ItsMatheesha/jwt-sb)
 
 ---
